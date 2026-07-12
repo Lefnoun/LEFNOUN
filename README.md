@@ -35,7 +35,7 @@ Engineering Knowledge Platform
 
 Digital Twin Architecture
 
-### PDIF — Physical Design Intelligence Framework
+### PDIF *Physical Design Intelligence Framework*
 
 PDIF is an engineering diagnosis and decision support framework for semiconductor physical design.
 
@@ -62,9 +62,3 @@ Artificial Intelligence
 Ottawa, Ontario, Canada
 www.lefnoun.com
 contact@lefnoun.com
-
-
-
-Diagnosis cannot exist.
-
-
