@@ -3,7 +3,7 @@
 
 LEFNOUN is a research, development, and engineering organization dedicated to advancing semiconductor design through engineering intelligence, artificial intelligence, and next-generation design methodologies.
 
-Our work combines deep engineering expertise, physical design methodology, data-driven analysis, and engineering knowledge systems to solve complex semiconductor implementation challenges.
+Our work combines deep engineering expertise, physical design methodology, data-driven analysis, and engineering knowledge systems to solve complex semiconductor implementation challenges. 
 
 Our objective is to bridge engineering expertise, artificial intelligence, and accumulated engineering knowledge to accelerate semiconductor innovation and enable better engineering decisions.
 
