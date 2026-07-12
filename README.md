@@ -1,20 +1,11 @@
 # LEFNOUN
-
 ## Engineering Intelligence for Better Semiconductor Design Decisions
 LEFNOUN is a research, development, and engineering organization dedicated to advancing semiconductor design through engineering intelligence, artificial intelligence, and next-generation design methodologies.
-
 Our work combines deep engineering expertise, physical design methodology, data-driven analysis, and engineering knowledge systems to solve complex semiconductor implementation challenges.
-
 Our objective is to bridge engineering expertise, artificial intelligence, and accumulated engineering knowledge to accelerate semiconductor innovation and enable better engineering decisions .
-
 ## Our Mission
-
 > **Engineering Intelligence for Better Semiconductor Design Decisions.**
-
----
-
 ## Research Areas
-
 - Semiconductor Physical Design
 - Engineering Intelligence
 - AI-Assisted Engineering
@@ -26,55 +17,29 @@ Our objective is to bridge engineering expertise, artificial intelligence, and a
 - Engineering Knowledge Platforms
 - Digital Twin Technologies
 
----
-
 ## Flagship Research Platform
-
 # PDIF Physical Design Intelligence Framework
-
 PDIF is LEFNOUN's flagship research platform for engineering diagnosis and intelligent decision support in semiconductor physical design.
-
 ### Core Capabilities
 - Engineering Diagnosis Framework
 - Engineering Decision Support System
 - Engineering Knowledge Platform
 - Digital Twin Architecture
-
 PDIF is designed to assist engineers in identifying the true origin of implementation issues, understanding cross-stage design dependencies, preserving engineering knowledge, and recommending evidence-based corrective actions throughout the physical design flow.
-
-> **PDIF does not replace engineers. It amplifies engineering expertise.**
-
----
-
+ **PDIF does not replace engineers. It amplifies engineering expertise. **
 ## Research Philosophy
-
 We believe that complex engineering problems should not be solved through endless trial-and-error iterations.
-
 Engineering decisions should be driven by systematic diagnosis, objective evidence, accumulated engineering knowledge, and explainable artificial intelligence.
-
----
-
 ## Our Vision
-
-> **To transform semiconductor physical design from an iterative optimization process into an engineering diagnosis process.**
-
----
-
+ **To transform semiconductor physical design from an iterative optimization process into an engineering diagnosis process.**
 ## Our Long-Term Vision
-
 LEFNOUN is building the next generation of engineering intelligence platforms for semiconductor design.
-
 Our mission extends beyond developing software tools. We aim to create engineering systems that combine human expertise, engineering knowledge, artificial intelligence, and explainable decision support to assist engineers throughout the entire semiconductor development lifecycle.
-
----
-
 ## PDIF Engineering Architecture
-
 PDIF is being developed around a structured engineering intelligence architecture.
-
 ### Engineering Knowledge and Data
 
-- **EDB — Engineering Database**  
+-**EDB — Engineering Database**  
   Preserves engineering experience, historical problems, design observations, and previously validated engineering solutions.
 
 - **DDB — Diagnosis Database**  
