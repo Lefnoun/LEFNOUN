@@ -1,10 +1,12 @@
 # LEFNOUN
 
-### Engineering Intelligence for Next-Generation Semiconductor Design
+### Engineering Intelligence for Better Semiconductor Design Decisions
 
 LEFNOUN is a research, development, and engineering organization focused on advanced semiconductor design methodologies, engineering intelligence, and AI-assisted engineering decision systems.
 
 Our work combines deep engineering expertise, physical design methodology, data-driven analysis, and engineering knowledge systems to address complex semiconductor implementation challenges.
+
+Our objective is to bridge engineering expertise, artificial intelligence, and accumulated engineering knowledge to accelerate semiconductor innovation.
 
 ## Research Areas
 
@@ -21,6 +23,18 @@ Our work combines deep engineering expertise, physical design methodology, data-
 
 ## Flagship Research Platform
 
+PDIF
+
+Physical Design Intelligence Framework
+
+Engineering Diagnosis Framework
+
+Engineering Decision Support System
+
+Engineering Knowledge Platform
+
+Digital Twin Architecture
+
 ### PDIF — Physical Design Intelligence Framework
 
 PDIF is an engineering diagnosis and decision support framework for semiconductor physical design.
@@ -29,20 +43,28 @@ The platform is designed to help engineers identify the true origin of implement
 
 > PDIF does not replace engineers. PDIF amplifies engineering expertise.
 
-## Our Philosophy
+## Research Philosophy
+ 
+We believe engineering problems should not be solved through endless trial-and-error iterations.
 
-We believe complex engineering problems should not be addressed through endless trial-and-error iterations.
+Engineering decisions should be supported by diagnosis, evidence, accumulated engineering knowledge, and explainable artificial intelligence.
 
-Engineering decisions should be supported by evidence, design context, accumulated knowledge, and systematic diagnosis.
 
 ## Organization
 
 **LEFNOUN**
 
-Research • Development • Engineering • Artificial Intelligence
+Research
+Development
+Engineering
+Artificial Intelligence
 
 Ottawa, Ontario, Canada
+www.lefnoun.com
+contact@lefnoun.com
 
-Website: https://www.lefnoun.com
 
-Contact: contact@lefnoun.com
+
+Diagnosis cannot exist.
+
+
