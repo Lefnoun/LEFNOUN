@@ -33,12 +33,11 @@ Our objective is to bridge engineering expertise, artificial intelligence, and a
 
 ## Flagship Research Platform
 
-# PDIF — Physical Design Intelligence Framework
+# PDIF Physical Design Intelligence Framework
 
 PDIF is LEFNOUN's flagship research platform for engineering diagnosis and intelligent decision support in semiconductor physical design.
 
 ### Core Capabilities
-
 - Engineering Diagnosis Framework
 - Engineering Decision Support System
 - Engineering Knowledge Platform
