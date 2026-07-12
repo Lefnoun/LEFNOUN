@@ -1,5 +1,5 @@
-LEFNOUN
-Engineering Intelligence for Better Semiconductor Design Decisions
+## LEFNOUN
+## Engineering Intelligence for Better Semiconductor Design Decisions
 
 LEFNOUN is a research, development, and engineering organization dedicated to advancing semiconductor design through engineering intelligence, artificial intelligence, and next-generation design methodologies.
 
@@ -7,7 +7,7 @@ Our work combines deep engineering expertise, physical design methodology, data-
 
 Our objective is to bridge engineering expertise, artificial intelligence, and accumulated engineering knowledge to accelerate semiconductor innovation and enable better engineering decisions.
 
-Research Areas
+## Research Areas
 Semiconductor Physical Design
 Engineering Intelligence
 AI-Assisted Engineering
@@ -19,7 +19,8 @@ Engineering Decision Support Systems
 Engineering Knowledge Platforms
 Digital Twin Technologies
 Flagship Research Platform
-PDIF — Physical Design Intelligence Framework
+
+## PDIF — Physical Design Intelligence Framework
 
 PDIF is LEFNOUN's flagship research platform for engineering diagnosis and intelligent decision support in semiconductor physical design.
 
@@ -33,7 +34,7 @@ PDIF is designed to assist engineers in identifying the true origin of implement
 
 PDIF does not replace engineers. PDIF amplifies engineering expertise.
 
-Research Philosophy
+## Research Philosophy
 
 We believe that complex engineering problems should not be solved through endless trial-and-error iterations.
 
@@ -41,7 +42,7 @@ Engineering decisions should be driven by systematic diagnosis, objective eviden
 
 Our vision is to transform semiconductor physical design from an iterative optimization process into an engineering diagnosis process.
 
-Organization
+## Organization
 
 LEFNOUN
 
